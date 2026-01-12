@@ -1,0 +1,153 @@
+#EXTM3U
+#EXTINF:-1, Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1, Россия К
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1, Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1, BRIDGE РУССКИЙ ХИТ
+http://levshanov.tlkf.ru/iptv/rusong_tv/16/vh1/playlist.m3u8
+#EXTINF:-1, BRIDGE HITS
+http://levshanov.tlkf.ru/iptv/dange_tv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 ,Кинопремьера
+https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Киносемья
+https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Киносвидание
+https://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Кинохит
+https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Киномикс
+https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Кинокомедия
+https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Наше новое кино
+https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Silk Way Cinema
+http://levshanov.tlkf.ru/iptv/silk_way_cinema/16/copy_a/playlist.m3u8
+#EXTINF:-1, black
+http://levshanov.tlkf.ru/iptv/sony_turbo/16/tvrecw/playlist.m3u8
+#EXTINF:-1, red
+http://levshanov.tlkf.ru/iptv/set/16/tvrecw/playlist.m3u8
+#EXTINF:-1, sci-fi
+http://levshanov.tlkf.ru/iptv/sonyscifi/16/gvh1w/playlist.m3u8
+#EXTINF:-1 ,Наша Сибирь
+http://levshanov.tlkf.ru/iptv/nasha_sibir/16/copy_a/playlist.m3u8
+#EXTINF:-1 ,АРТ ТВ
+http://levshanov.tlkf.ru/iptv/art_tv/16/copy_a/playlist.m3u8
+#EXTINF:-1 ,Квадро HD
+http://levshanov.tlkf.ru/iptv/kvadro_hd/16/copy_a/playlist.m3u8
+#EXTINF:-1 ,The Explorers
+http://levshanov.tlkf.ru/iptv/the_explorers/16/tvrecw/playlist.m3u8
+#EXTINF:-1 ,Travel+Adventure
+http://levshanov.tlkf.ru/iptv/travad/16/tvrecw/playlist.m3u8
+#EXTINF:-1 ,Техно 24
+https://vod.splay.uz/live_splay/original/Tehno_24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Animal Planet HD
+https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Nat Geo Wild HD
+https://vod.splay.uz/live_splay/original/Nat_Geo_Wild_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,National Geographic HD
+https://vod.splay.uz/live_splay/original/National_Geographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Viasat Explore
+https://vod.splay.uz/live_splay/original/Viasat_Explorer/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Viasat History
+https://vod.splay.uz/live_splay/original/Viasat_History/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Viasat Nature HD
+https://vod.splay.uz/live_splay/original/Viasat_Nature/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Дикий
+https://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,История
+https://vod.splay.uz/live_splay/original/History/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Моя планета
+https://vod.splay.uz/live_splay/original/MoyaPlanetaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Живая природа
+https://vod.splay.uz/live_splay/original/JivayaPrirodaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Terra
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
+#EXTINF:-1 ,Eurosport 1 HD
+https://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport 2 HD
+https://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,MMA-TV.COM
+https://vod.splay.uz/live_splay/original/MMA-TV.comHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Viasat Sport
+https://vod.splay.uz/live_splay/original/Viasat_Sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Бокс ТВ
+https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8
+#EXTINF:-1, Матч Премьер
+http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Кавказ 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Запад 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Восток 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Сибирь 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Башкортостан 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Урал 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Нижний Новгород 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Арктика 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-id="city-tv-bg",City TV
+https://tv.city.bg/play/tshls/citytv/2.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://sat.kharkiv.ua/images/Strani/evropa/north%20macedonia/sky%20folk%20tv.jpg",SKY Folk TV
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.radio-banovina.hr/wp-content/uploads/2015/01/logo-120_00000.png",Banovina TV
+http://video.radio-banovina.hr:1935/live/myStream/chunklist_w1164976177.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,AFN Music
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.aparatchi.com/images/TV/7xmusic.png",7X MUSIC
+https://stream.e2is.in/hls/7xMusic.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://euroindiemusic.info/wp-content/uploads/2021/06/Aqua-Play-Icon-Personal-Logo-700x700.png",Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
